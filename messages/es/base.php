@@ -17,8 +17,8 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Deleted.' => '',
-    'Issue' => '',
-    'Not deleted.' => '',
-    'Tracker issues' => '',
+    'Deleted.' => 'Eliminadas.',
+    'Issue' => 'Incidente',
+    'Not deleted.' => 'No eliminada.',
+    'Tracker issues' => 'Seguimiento de incidentes',
 ];
