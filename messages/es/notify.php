@@ -17,5 +17,5 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    '{userName} granted you access to the document "{document}"' => '',
+    '{userName} granted you access to the document "{document}"' => '{userName} te otorgó acceso al documento: "{document}"',
 ];
